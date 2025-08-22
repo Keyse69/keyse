@@ -1,0 +1,29 @@
+* body{
+    margin: 0px;
+    padding: 0px;
+}
+#top{
+    width: 980px;
+    height: 100px;
+    background-color: rgb(0, 0, 0);
+    margin: auto;
+}
+#logo{
+    width: 200px;
+    height: 100px;
+    background-color: rgb(114, 71, 143);
+    float: left;
+}
+#menu{
+    width: 780px;
+    height: 100px;
+    background-color: rgb(83, 120, 199);
+    float: right;
+}
+#banner{
+    width: 700px;
+    height: 400px;
+    background-color: rgb(0, 0, 0);
+    margin: auto;
+}
+ 
