@@ -1,0 +1,62 @@
+* body{
+    margin: 0px;
+    padding: 0px;
+     font-family: "Inter", sans-serif;
+}
+#topContainer{
+    width: 980px;
+    height: 200px;
+    margin: auto;
+    background-color: red;
+}
+#logo{
+    width: 200px;
+    height: 200px;
+    float: left;
+    background-color: black;
+}
+#menu{
+    width: 780px;
+    height: 200px;
+    float: right;
+    background-color: yellow;
+}
+#menu a{
+    text-decoration: none;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    margin: 70px 20px 0px 20px;
+    float: left;
+}
+#banner{
+    width: 700px;
+    height: 400px;
+    background-color: dimgrey;
+    margin: auto;
+    margin-top: 50px;
+}
+#content{
+    width: 980px;
+    height: 500px;
+    background-color: blueviolet;
+    margin: auto;
+}
+#esquerda{
+    width: 450px;
+height: 500px;
+float: left;
+background-color: black;
+}
+#direita{
+width: 450px;
+height: 500px;
+background-color: darkgrey;
+float: right;
+}
+#rodape{
+    width: 980px;
+    height: 50px;
+    background-color: rgb(195, 0, 255);
+    margin: auto;
+}
