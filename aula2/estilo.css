@@ -12,8 +12,8 @@
     background-color: white;
 }
 #logo{
-    width: 200px;
-    height: 200px;
+    width: 100px;
+    height: 100px;
     float: left;
     background-color: white;
 }
@@ -52,7 +52,7 @@
     margin-top: 50px;
 }
 #content{
-    width: 100%;
+    width: 980px;
     height: 500px;
     background-color: white;
     margin: auto;
